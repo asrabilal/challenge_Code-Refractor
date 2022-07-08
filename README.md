@@ -1,1 +1,1 @@
-# git-init-sample
+# Challenge Code Refractor
